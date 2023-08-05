@@ -10,5 +10,8 @@ the input parameters like gender, age, and various health and social information
 This is a neural network model that predicts whether or not a patient is likely to have a stroke.
 The model achieved a score of 99.2% accuracy.
 
+## Dataset sample
+
+![image](https://github.com/NacuAndrei/Stroke-predictor/assets/80635358/61b12d26-5bc8-4235-8758-24b66c4ce177)
 
 
